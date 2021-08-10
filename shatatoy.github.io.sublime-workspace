@@ -1,0 +1,2376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"array_key_exists"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"res",
+				"resc"
+			],
+			[
+				"incl",
+				"incl_orders"
+			],
+			[
+				"j",
+				"jso"
+			],
+			[
+				"z",
+				"zx"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"p",
+				"para"
+			],
+			[
+				"usd",
+				"usd_rur"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1403,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AQAAAOEAAAAAAAAA/QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AgAAABMBAAAAAAAAGAEAAAAAAAAAAAAAGAEAAAAAAAAYAQAAAAAAAAQAAAB0cnVl",
+					"AQAAAAAAAAABAAAAEwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "______"
+					},
+					"BgAAACACAAAAAAAAIQIAAAAAAAAAAAAAIQIAAAAAAAAiAgAAAAAAAAAAAAAiAgAAAAAAACMCAAAAAAAAAAAAACMCAAAAAAAAJAIAAAAAAAAAAAAAJAIAAAAAAAAlAgAAAAAAAAAAAAAlAgAAAAAAACYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAIAAAAAAAAgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "_____"
+					},
+					"BQAAAAQCAAAAAAAABQIAAAAAAAAAAAAABQIAAAAAAAAGAgAAAAAAAAAAAAAGAgAAAAAAAAcCAAAAAAAAAAAAAAcCAAAAAAAACAIAAAAAAAAAAAAACAIAAAAAAAAJAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAIAAAAAAAAEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "____"
+					},
+					"BAAAAOcBAAAAAAAA6AEAAAAAAAAAAAAA6AEAAAAAAADpAQAAAAAAAAAAAADpAQAAAAAAAOoBAAAAAAAAAAAAAOoBAAAAAAAA6wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5wEAAAAAAADnAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "tatoy.html",
+			"settings":
+			{
+				"buffer_size": 11574,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"",
+					null,
+					"AgAAALsoAAAAAAAA1SgAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1lCgAAAAAAACuKAAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "about/index.php",
+			"settings":
+			{
+				"buffer_size": 4357,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BAAAAMYIAAAAAAAA4AgAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1CgUAAAAAAAAkBQAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnV1BAAAAAAAAI8EAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydRQEAAAAAAAALgQAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "openexchangerates.php",
+			"settings":
+			{
+				"buffer_size": 3107,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4422,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAALREAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"",
+					null,
+					"BQAAAF0JAAAAAAAAdwkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1+gcAAAAAAAAUCAAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnV9BAAAAAAAAJcEAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydfYDAAAAAAAAEAQAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1pgMAAAAAAADAAwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAA9gMAAAAAAAALBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "index2.php",
+			"settings":
+			{
+				"buffer_size": 4423,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BQAAAF4JAAAAAAAAeAkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1+gcAAAAAAAAUCAAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnV9BAAAAAAAAJcEAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydfYDAAAAAAAAEAQAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1pgMAAAAAAADAAwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "shatatoy.html",
+			"settings":
+			{
+				"buffer_size": 12418,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"AgAAAF8qAAAAAAAAeSoAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1OCoAAAAAAABSKgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "about-.html",
+			"settings":
+			{
+				"buffer_size": 20808,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BQAAAL4JAAAAAAAA2AkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1PAYAAAAAAABWBgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnW6BQAAAAAAANQFAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydWwFAAAAAAAAhgUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 19828,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BQAAAL4JAAAAAAAA2AkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1PAYAAAAAAABWBgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnW6BQAAAAAAANQFAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydWwFAAAAAAAAhgUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "about_1.html",
+			"settings":
+			{
+				"buffer_size": 20452,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BQAAAL4JAAAAAAAA2AkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1PAYAAAAAAABWBgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnW6BQAAAAAAANQFAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydWwFAAAAAAAAhgUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 12112,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BQAAAHcJAAAAAAAAkQkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1JgYAAAAAAABABgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnWlBQAAAAAAAL8FAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydVcFAAAAAAAAcQUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gist:",
+				"Gist: Open Gist"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"gits",
+				"GitSavvy: view recorded log"
+			],
+			[
+				"REINDE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"open",
+				"Open IPython Notebook"
+			],
+			[
+				"beu",
+				"HTMLBeautify"
+			],
+			[
+				"beut",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML Minfier: Minify File (create new)"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"xd",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdeb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"x",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"GitSavvy: help",
+				"GitSavvy: help"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"biu",
+				"PHP CodeBeautifier"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+			"extract_variables()",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/sites/shatatoy.github.io"
+	],
+	"file_history":
+	[
+		"/C/sites/unsupervise.ru/tatoy.html",
+		"/C/sites/unsupervise.ru/openexchangerates.php",
+		"/C/sites/unsupervise.ru/index.php",
+		"/C/sites/unsupervise.ru/index2.php",
+		"/C/sites/unsupervise.ru/about.html",
+		"/C/sites/kurs-dollara.net/cache2/all_records.log",
+		"/C/Users/tatoy/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/sites/unsupervise.ru/sftp-config.json",
+		"/C/sites/unsupervise.ru/inf.php",
+		"/C/sites/unsupervise.ru/contact.html",
+		"/C/sites/openexchangerates.php",
+		"/C/sites/kurs-dollara.net/openexchangerates.php",
+		"/C/sites/unsupervise.ru/about-.html",
+		"/C/sites/unsupervise.ru/about_1.html",
+		"/C/sites/unsupervise.ru/geo/cities.txt",
+		"/C/sites/unsupervise.ru/geo/cities2.txt",
+		"/C/sites/unsupervise.ru/inc/index.php",
+		"/C/sites/unsupervise.ru/about/index.php",
+		"/C/sites/unsupervise.ru/js/delay-.js",
+		"/C/sites/unsupervise.ru/js/drift.js",
+		"/C/sites/unsupervise.ru/js/drift-REKLAMA.js",
+		"/C/sites/unsupervise.ru/портной.москва.sublime-project",
+		"/C/sites/unsupervise.ru/css/styles.css",
+		"/C/sites/kurs-dollara.net/en/dollar-rate/index.php",
+		"/C/sites/kurs-dollara.net/en/inc/menu-toplef.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/frotankor1db.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/sostavnoy.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/frotankoi2b.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/frotankor2b.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/futureslink2b.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/sostavnoy2b.php",
+		"/C/sites/kurs-dollara.net/en/inc/menu-midleft.php",
+		"/C/sites/kurs-dollara.net/en/inc/menu-tople.php",
+		"/C/sites/kurs-dollara.net/en/kurs-dollara/index.php",
+		"/C/sites/kurs-dollara.net/en/inc3/shapa-php.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/link-gener.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/cb_mount_template.php",
+		"/C/sites/kurs-dollara.net/en/segodnya/cb_mount.php",
+		"/C/sites/kurs-dollara.net/en/kurs-dollara/index301_302.php",
+		"/C/sites/kurs-dollara.net/en/segodnya/coronavirus_ru.html",
+		"/C/sites/kurs-dollara.net/en/index.html",
+		"/C/sites/kurs-dollara.net/en/inc/menu-grafiki-valdollar.php",
+		"/C/sites/kurs-dollara.net/en/inc/menu-top-left-home.php",
+		"/C/sites/kurs-dollara.net/en/inc/menu-top-left.php",
+		"/C/sites/kurs-dollara.net/en/inc/r-love.php",
+		"/C/sites/kurs-dollara.net/en/inc3/shapa-kursm.html",
+		"/C/sites/kurs-dollara.net/en/kurs-dollara-dinamika/dollar-rubli.html",
+		"/C/sites/kurs-dollara.net/en/ssi-php/futureslink3v.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/futureslink4.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/menucoin.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/menucoin_home.php",
+		"/C/sites/kurs-dollara.net/en/ssi-php/cb_chart_templ_some.php",
+		"/C/sites/kurs-dollara.net/en/dollara-kurs/dollar-kurs.html",
+		"/C/sites/kurs-dollara.net/en/dollara-kurs/grafiki-help.html",
+		"/C/sites/kurs-dollara.net/en/dollara-kurs/index-god.html",
+		"/C/sites/kurs-dollara.net/en/dollara-kurs/index.html",
+		"/C/sites/kurs-dollara.net/en/dollara-kurs/kurs-evro.html",
+		"/C/sites/kurs-dollara.net/en/forex/best-traders.html",
+		"/C/sites/kurs-dollara.net/en/forex/brokers.html",
+		"/C/sites/kurs-dollara.net/en/forex/foreks-broker.html",
+		"/C/sites/kurs-dollara.net/en/forex/foreks.html",
+		"/C/sites/kurs-dollara.net/en/forex/forex-calculator.html",
+		"/C/sites/kurs-dollara.net/en/forex/kotirovki-valyut.html",
+		"/C/sites/kurs-dollara.net/en/forex/margin-calculator.html",
+		"/C/sites/kurs-dollara.net/en/forex/margin-pip.html",
+		"/C/sites/kurs-dollara.net/en/forex/na-foreks.html",
+		"/C/sites/kurs-dollara.net/en/forex/prognoz-kratkosrochnaya.html",
+		"/C/sites/kurs-dollara.net/en/forex/takoe-foreks.html",
+		"/C/sites/kurs-dollara.net/en/forex/valyutnoi-foreks.html",
+		"/C/sites/kurs-dollara.net/en/forex/zarabotat-foreks.html",
+		"/C/sites/kurs-dollara.net/en/inc/404.html",
+		"/C/sites/kurs-dollara.net/en/inc/aforex.html",
+		"/C/sites/kurs-dollara.net/en/inc/alpari.html",
+		"/C/sites/kurs-dollara.net/en/inc/callback.html",
+		"/C/sites/kurs-dollara.net/en/inc/commerce.html",
+		"/C/sites/kurs-dollara.net/en/inc/dollar-yandex.html",
+		"/C/sites/kurs-dollara.net/en/inc/economic-news.html",
+		"/C/sites/kurs-dollara.net/en/inc/evro-yandex.html",
+		"/C/sites/kurs-dollara.net/en/inc/ispravili.html",
+		"/C/sites/kurs-dollara.net/en/inc/kontakt.html",
+		"/C/sites/kurs-dollara.net/en/inc/kurs-rub.html",
+		"/C/sites/kurs-dollara.net/en/inc/kurs-ruble.html",
+		"/C/sites/kurs-dollara.net/en/inc/kursi-valyut-narod.html",
+		"/C/sites/kurs-dollara.net/en/inc/otkaz.html",
+		"/C/sites/kurs-dollara.net/en/inc/prognoz-pogody.html",
+		"/C/sites/kurs-dollara.net/en/inc/rss.html",
+		"/C/sites/kurs-dollara.net/en/inc/templcapa.html",
+		"/C/sites/kurs-dollara.net/en/inc/templcapa2.html",
+		"/C/sites/kurs-dollara.net/en/inc/templcapa3.html",
+		"/C/sites/kurs-dollara.net/en/inc/liteforex/index.html",
+		"/C/sites/kurs-dollara.net/en/inc3/coronavirus.html",
+		"/C/sites/kurs-dollara.net/en/inc3/coronavirus_uk.html",
+		"/C/sites/kurs-dollara.net/en/inc3/coronavirus_usa.html",
+		"/C/sites/kurs-dollara.net/en/inc3/kurs-valyut-cbrfnarod.html",
+		"/C/sites/kurs-dollara.net/en/inc3/kursi-valyut-narod.html",
+		"/C/sites/kurs-dollara.net/en/index-rublya/index.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/00.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/btc-eur-forex-m.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/btc-rub-forex.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/btc-usd-forex.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/byr-rub.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/byr-usd.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/calculator-bel.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/calculator-grivna.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/calculator-lit-lat.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/calculator-tenge.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/chf-rub.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-bel.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-grivna.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-lit-lat.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-realtime.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-tenge.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/currency-calculator.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/currency-converter.html",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-btc-forex-m.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-btc.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-rub-forex.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-rub.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-usd.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/gbp-rub.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/jpy-rub.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/kzt-rub.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/kzt-usd-forex.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-btc-forex.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-byr.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-chf.php",
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-eur-forex.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://unsupervise.ru"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://shatatoy.github.io"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										504,
+										505
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										486,
+										487
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tatoy.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2061,
+								2061
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2081,
+										2082
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2053,
+										2054
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "openexchangerates.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1024,
+								1045
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1036,
+										1037
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1013,
+										1014
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index2.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "shatatoy.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										1,
+										5
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "about-.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "about_1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 132.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 368.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 181.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 109.0
+	},
+	"output.xdebug":
+	{
+		"height": 334.0
+	},
+	"pinned_build_system": "Packages/User/Google.sublime-build",
+	"project": "shatatoy.github.io.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssi-php/link-gener.php",
+				"ssi-php\\link-gener.php"
+			],
+			[
+				"shapa-kursm.html",
+				"inc3\\shapa-kursm.html"
+			],
+			[
+				"dollar-rubli.html",
+				"kurs-dollara-dinamika\\dollar-rubli.html"
+			],
+			[
+				"coronavirus_ru.html",
+				"segodnya\\coronavirus_ru.html"
+			],
+			[
+				"menu-top-left.php",
+				"inc\\menu-top-left.php"
+			],
+			[
+				"menu-top-left-home.php",
+				"inc\\menu-top-left-home.php"
+			],
+			[
+				"chart-corona_uk.php",
+				"image\\chart-corona_uk.php"
+			],
+			[
+				"/inc3/shapa-kursm.html",
+				"en\\inc3\\shapa-kursm2.html"
+			],
+			[
+				"futureslink3v",
+				"en\\ssi-php\\futureslink3v.php"
+			],
+			[
+				"futureslink4.php",
+				"en\\ssi-php\\futureslink4.php"
+			],
+			[
+				"menucoin_home.php",
+				"ssi-php\\menucoin_home.php"
+			],
+			[
+				"cb_chart_template.php",
+				"ssi-php\\cb_chart_template.php"
+			],
+			[
+				"kursy-valyut",
+				"en\\kursy-valyut\\index.html"
+			],
+			[
+				"kursy-cbrf3d.php",
+				"en\\ssi-php\\kursy-cbrf3d.php"
+			],
+			[
+				"menu-grafiki-valdollar.php",
+				"en\\inc\\menu-grafiki-valdollar.php"
+			],
+			[
+				"",
+				"en\\inc\\menu-top-left-home.php"
+			],
+			[
+				"otkaz",
+				"en\\inc\\otkaz.html"
+			],
+			[
+				"menu-leftlow.php",
+				"en\\inc\\menu-leftlow.php"
+			],
+			[
+				"r-love.php",
+				"en\\inc\\r-love.php"
+			],
+			[
+				"menu-kursy-home-r",
+				"en\\inc\\menu-kursy-home-r.php"
+			],
+			[
+				"cbrf2b",
+				"en\\ssi-php\\kursy-cbrf2b.php"
+			],
+			[
+				"menu-kursy.html",
+				"en\\inc\\menu-kursy.html"
+			],
+			[
+				"menu-konverters-home.php",
+				"en\\inc\\menu-konverters-home.php"
+			],
+			[
+				"inc/menu-top-left-home.php",
+				"en\\inc\\menu-top-left-home.php"
+			],
+			[
+				"chart-corona.php",
+				"image\\chart-corona.php"
+			],
+			[
+				"chart-corona_countries",
+				"image\\chart-corona_countries.php"
+			],
+			[
+				"menu-top-left",
+				"inc\\menu-top-left.php"
+			],
+			[
+				"menu-top-left-home",
+				"inc\\menu-top-left-home.php"
+			],
+			[
+				"charts-alpari",
+				"charts-alpari\\index.html"
+			],
+			[
+				"insta-news2",
+				"ssi-php\\insta-news2.php"
+			],
+			[
+				"brent",
+				"oil-price\\brent.html"
+			],
+			[
+				"brent.html",
+				"brent.html"
+			],
+			[
+				"shapa-kurs1.html",
+				"inc3\\shapa-kurs1.html"
+			],
+			[
+				"symbol-name.html",
+				"nyse-nasdaq\\symbol-name.html"
+			],
+			[
+				"market-research.html",
+				"nyse-nasdaq\\market-research.html"
+			],
+			[
+				"charts-shares.html",
+				"charts-ticker\\charts-shares.html"
+			],
+			[
+				"dow-djia.html",
+				"dow-djia.html"
+			],
+			[
+				"nasdaq.html",
+				"nasdaq.html"
+			],
+			[
+				"index-god.html",
+				"dollara-kurs\\index-god.html"
+			],
+			[
+				"grafik-kurs.html",
+				"grafik-kurs.html"
+			],
+			[
+				"mmvb.html",
+				"mmvb.html"
+			],
+			[
+				"cb_mount.php",
+				"segodnya\\cb_mount.php"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"simplexml12_template.php",
+				"ssi-php\\simplexml12_template.php"
+			],
+			[
+				"simplexml11ru.php",
+				"ssi-php\\simplexml11ru.php"
+			],
+			[
+				"simplexml11b",
+				"ssi-php\\simplexml11b.php"
+			],
+			[
+				"simplexml1.php",
+				"ssi-php\\simplexml1.php"
+			],
+			[
+				"simplexml12rueur",
+				"ssi-php\\simplexml12rueur.php"
+			],
+			[
+				"simplexml12ru.php",
+				"ssi-php\\simplexml12ru.php"
+			],
+			[
+				"simplexml11eur",
+				"ssi-php\\simplexml11eur.php"
+			],
+			[
+				"simplexml11k.php",
+				"ssi-php\\simplexml11k.php"
+			],
+			[
+				"simplexml11na",
+				"ssi-php\\simplexml11na.php"
+			],
+			[
+				"ssi-php/cb_mount_template.php",
+				"ssi-php\\cb_mount_template.php"
+			],
+			[
+				"coronavirus_",
+				"inc3\\coronavirus_usa.html"
+			],
+			[
+				"coronavirus_uk",
+				"segodnya\\coronavirus_uk.html"
+			],
+			[
+				"iena-yen.html",
+				"kurs_dollara\\iena-yen.html"
+			],
+			[
+				"kurs-gbpusd",
+				"kurs-gbpusd\\index.html"
+			],
+			[
+				"quotes-forex.html",
+				"kotirovki-insta\\quotes-forex.html"
+			],
+			[
+				"cb_chart_template",
+				"ssi-php\\cb_chart_template.php"
+			],
+			[
+				"soc.php",
+				"inc\\soc.php"
+			],
+			[
+				"currency-correlation.html",
+				"charts-ticker\\currency-correlation.html"
+			],
+			[
+				"dollar-euro.html",
+				"charts-ticker\\dollar-euro.html"
+			],
+			[
+				"mmvb",
+				"mmvb.html"
+			],
+			[
+				"charts-commodities.html",
+				"charts-ticker\\charts-commodities.html"
+			],
+			[
+				"prognoz.html",
+				"valyut\\prognoz.html"
+			],
+			[
+				"usd-rub-cbrf.php",
+				"konverter-valyut\\usd-rub-cbrf.php"
+			],
+			[
+				"eur-rub.php",
+				"konverter-valyut\\eur-rub.php"
+			],
+			[
+				"rub-uah.php",
+				"konverter-valyut\\rub-uah.php"
+			],
+			[
+				"byr-rub.php",
+				"konverter-valyut\\byr-rub.php"
+			],
+			[
+				"kzt-rub.php",
+				"konverter-valyut\\kzt-rub.php"
+			],
+			[
+				"gbp-rub.php",
+				"konverter-valyut\\gbp-rub.php"
+			],
+			[
+				"jpy-rub.php",
+				"konverter-valyut\\jpy-rub.php"
+			],
+			[
+				"dollar.html",
+				"segodnya\\dollar.html"
+			],
+			[
+				"/padenie-rublya.html",
+				"kurs_rublya\\padenie-rublya.html"
+			],
+			[
+				"kurs-evro-dinamika",
+				"kurs-evro-dinamika\\index.html"
+			],
+			[
+				"rub-byr.php",
+				"konverter-valyut\\rub-byr.php"
+			],
+			[
+				"rub-chf.php",
+				"konverter-valyut\\rub-chf.php"
+			],
+			[
+				"chf-rub.php",
+				"konverter-valyut\\chf-rub.php"
+			],
+			[
+				"frank-franc.html",
+				"kurs_dollara\\frank-franc.html"
+			],
+			[
+				"/charts-crosses.html",
+				"charts-ticker\\charts-crosses.html"
+			],
+			[
+				"aud-rublyu.html",
+				"kurs_rublya\\aud-rublyu.html"
+			],
+			[
+				"kurs_rublya/in",
+				"kurs_rublya\\index.html"
+			],
+			[
+				"belorusskiy-rubl.html",
+				"kurs_rublya\\belorusskiy-rubl.html"
+			],
+			[
+				"k-grivne.html",
+				"kurs_dollara\\k-grivne.html"
+			],
+			[
+				"forex-quotes.html",
+				"quotes\\forex-quotes.html"
+			],
+			[
+				"grivna-hryvnia.html",
+				"kurs_rublya\\grivna-hryvnia.html"
+			],
+			[
+				"/funt-pound.html",
+				"kurs_dollara\\funt-pound.html"
+			],
+			[
+				"socl.php",
+				"inc\\socl.php"
+			],
+			[
+				"simplexml11titlena",
+				"ssi-php\\simplexml11titlena.php"
+			],
+			[
+				"simplexml_cb_week",
+				"image\\simplexml_cb_week.php"
+			],
+			[
+				"link-gener.ph",
+				"ssi-php\\link-gener.php"
+			],
+			[
+				"curl-openex3eur.php",
+				"ssi-php\\curl-openex3eur.php"
+			],
+			[
+				"nya/coronavirus.html",
+				"segodnya\\coronavirus.html"
+			],
+			[
+				"simplexml12ru",
+				"ssi-php\\simplexml12ru.php"
+			],
+			[
+				"kurs-rublya/",
+				"kurs-rublya\\index.html"
+			],
+			[
+				"cena-light.html",
+				"oil-price\\cena-light.html"
+			],
+			[
+				"simplexml_cb_month.php",
+				"image\\simplexml_cb_month.php"
+			],
+			[
+				"simplexml_cb_week.php",
+				"image\\simplexml_cb_week.php"
+			],
+			[
+				"chart-usd_rub_cb.php",
+				"image\\chart-usd_rub_cb.php"
+			],
+			[
+				"oil.html",
+				"oil-price\\oil.html"
+			],
+			[
+				"currency-calculator.html",
+				"konverter-valyut\\currency-calculator.html"
+			],
+			[
+				"usd-cad.html",
+				"inc-charts\\usd-cad.html"
+			],
+			[
+				"rotatorlow2.php",
+				"ssi-php\\rotatorlow2.php"
+			],
+			[
+				"cad-dollaru.html",
+				"kurs_dollara\\cad-dollaru.html"
+			],
+			[
+				"cad-dollar.html",
+				"kurs_rublya\\cad-dollar.html"
+			],
+			[
+				"kurs-rublya-evro/",
+				"kurs-rublya-evro\\index.html"
+			],
+			[
+				"simplexml11title2na",
+				"ssi-php\\simplexml11title2na.php"
+			],
+			[
+				"evro-usd.html",
+				"kurs_dollara\\evro-usd.html"
+			],
+			[
+				"rotatorlow2",
+				"ssi-php\\rotatorlow2.php"
+			],
+			[
+				"covid",
+				"covid_inspector_hand.php"
+			],
+			[
+				"inspe",
+				"covid_inspector.php"
+			],
+			[
+				"link-gener.php",
+				"ssi-php\\link-gener.php"
+			],
+			[
+				"curl-openex2.php",
+				"ssi-php\\curl-openex2.php"
+			],
+			[
+				"dollar-rate-link.php",
+				"ssi-php\\dollar-rate-link.php"
+			],
+			[
+				"dollar1.html",
+				"inc3\\dollar1.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"useralx3.css",
+				"css\\useralx3.css"
+			],
+			[
+				"dollar-kurs.html",
+				"dollara-kurs\\dollar-kurs.html"
+			],
+			[
+				"kursi-valyut",
+				"kursi-valyut\\index.html"
+			],
+			[
+				"kurs-dollara-link",
+				"ssi-php\\kurs-dollara-link.php"
+			],
+			[
+				"link-gener-cach2",
+				"ssi-php\\link-gener-cach2.php"
+			],
+			[
+				"teksbm",
+				"ssi-php\\teksbm-sellbannermaster.php"
+			],
+			[
+				"/rotator.php",
+				"ssi-php\\rotator.php"
+			],
+			[
+				"dollar-rate",
+				"dollar-rate\\index.php"
+			],
+			[
+				"corona",
+				"inc3\\coronavirus.html"
+			],
+			[
+				"sp5",
+				"sp500.html"
+			],
+			[
+				"kursy-valyut-link.php",
+				"ssi-php\\kursy-valyut-link.php"
+			],
+			[
+				"socr_googl_rtop",
+				"inc\\socr_googl_rtop.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 37.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

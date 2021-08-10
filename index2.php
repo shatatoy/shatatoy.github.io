@@ -16,10 +16,10 @@
 
     <meta property="og:title" content="Портной Татой 'unsupervise.ru'" />
     <meta property="og:description" content="Татой 'unsupervise.ru' - Опытный портной - выезд, VIP-сервис" />
-    <meta property="og:image" content="http://unsupervise.ru/images/logob.jpg" />
-    <meta property="og:url" content="http://unsupervise.ru/" />
+    <meta property="og:image" content="https://shatatoy.github.io/images/logob.jpg" />
+    <meta property="og:url" content="https://shatatoy.github.io/" />
     <meta property="og:site_name" content="Портной Татой, Москва" />
-    <meta name="twitter:site" content="http://unsupervise.ru/" />
+    <meta name="twitter:site" content="https://shatatoy.github.io/" />
     <meta name="twitter:title" content="Портной Татой 'unsupervise.ru' - Опытный портной" />
     <meta name="twitter:description" content="Портной Татой 'unsupervise.ru' - Опытный портной, VIP-сервис" />
     <meta property="place:location:latitude" content="55.752943"/>
@@ -30,7 +30,7 @@
     <meta property="business:contact_data:country_name" content="РФ"/>
     <meta property="business:contact_data:viber" content="+7920663788два"/>
     <meta property="business:contact_data:phone_number" content="+7920663788два"/>
-    <meta property="business:contact_data:website" content="http://unsupervise.ru/"/>
+    <meta property="business:contact_data:website" content="https://shatatoy.github.io/"/>
     <meta name="geo.placename" content="Новинский бульвар, 12, Москва, РФ, 121069" />
     <meta name="geo.position" content="55.752943;37.583957" />
     <meta name="geo.region" content="RU-город Москва" />
@@ -38,7 +38,7 @@
   </head>
 
   <body>
-    <meta http-equiv="refresh" content="10; url=http://unsupervise.ru/about.html">
+    <meta http-equiv="refresh" content="10; url=https://shatatoy.github.io/about.html">
     
     <!-- скрипт задержки появления -->
     <script type="text/javascript">
