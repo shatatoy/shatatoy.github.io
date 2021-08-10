@@ -1,0 +1,62 @@
+<br />
+
+<!--#config errmsg ="..." -->
+
+<!--#config timefmt="%u" --> 
+<!--#set var="NUM_DAY" value="$DATE_LOCAL"-->
+
+<!--#if expr="$NUM_DAY=1" -->
+<!--#set var="DAY" value="понедельник" -->
+<!--#elif expr="$NUM_DAY=2" -->
+<!--#set var="DAY" value="вторник" -->
+<!--#elif expr="$NUM_DAY=3" -->
+<!--#set var="DAY" value="среда" -->
+<!--#elif expr="$NUM_DAY=4" -->
+<!--#set var="DAY" value="четверг" -->
+<!--#elif expr="$NUM_DAY=5" -->
+<!--#set var="DAY" value="пятница" -->
+<!--#elif expr="$NUM_DAY=6" -->
+<!--#set var="DAY" value="суббота" -->
+<!--#elif expr="$NUM_DAY=7" -->
+<!--#set var="DAY" value="воскресенье" -->
+<!--#else -->
+<!--#endif -->
+
+<!--#config timefmt="%e" -->
+<!--#set var="DATE" value="$DATE_LOCAL"-->
+Сегодня
+
+<!--#config timefmt="%m" -->
+<!--#set var="NUM_MONTH" value="$DATE_LOCAL"-->
+
+<!--#if expr="$NUM_MONTH=01" -->
+<!--#set var="MONTH" value="января" -->
+<!--#elif expr="$NUM_MONTH=02" -->
+<!--#set var="MONTH" value="февраля" -->
+<!--#elif expr="$NUM_MONTH=03" -->
+<!--#set var="MONTH" value="марта" -->
+<!--#elif expr="$NUM_MONTH=04" -->
+<!--#set var="MONTH" value="апреля" -->
+<!--#elif expr="$NUM_MONTH=05" -->
+<!--#set var="MONTH" value="мая" -->
+<!--#elif expr="$NUM_MONTH=06" -->
+<!--#set var="MONTH" value="июня" -->
+<!--#elif expr="$NUM_MONTH=07" -->
+<!--#set var="MONTH" value="июля" -->
+<!--#elif expr="$NUM_MONTH=08" -->
+<!--#set var="MONTH" value="августа" -->
+<!--#elif expr="$NUM_MONTH=09" -->
+<!--#set var="MONTH" value="сентября" -->
+<!--#elif expr="$NUM_MONTH=10" -->
+<!--#set var="MONTH" value="октября" -->
+<!--#elif expr="$NUM_MONTH=11" -->
+<!--#set var="MONTH" value="ноября" -->
+<!--#else -->
+<!--#set var="MONTH" value="декабря" -->
+<!--#endif -->
+<!--#config timefmt="%G" -->
+<!--#set var="YEAR" value="$DATE_LOCAL" -->
+<!--#echo encoding="none" var="DAY" -->,
+<!--#echo encoding="none" var="DATE" -->
+<!--#echo encoding="none" var="MONTH" -->,
+<!--#echo encoding="none" var="YEAR" --> год.<br />
