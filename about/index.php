@@ -24,8 +24,8 @@
         <meta property="business:contact_data:locality" content="Москва"/>
         <meta property="business:contact_data:postal_code" content="121069"/>
         <meta property="business:contact_data:country_name" content="РФ"/>
-        <meta property="business:contact_data:viber" content="+7920663788Z"/>
-        <meta property="business:contact_data:phone_number" content="+7920663788Z"/>
+        <meta property="business:contact_data:viber" content="+79206637882"/>
+        <meta property="business:contact_data:phone_number" content="+79206637882"/>
         <meta property="business:contact_data:website" content="https://shatatoy.github.io/"/>
         <meta name="geo.placename" content="Новинский бульвар, 12, Москва, РФ, 121069" />
         <meta name="geo.position" content="55.752943;37.583957" />

@@ -52,142 +52,7 @@
 	"buffers":
 	[
 		{
-			"file": "sftp-config.json",
-			"settings":
-			{
-				"buffer_size": 1403,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					10,
-					1,
-					"paste",
-					null,
-					"AQAAAOEAAAAAAAAA/QAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					21,
-					1,
-					"paste",
-					null,
-					"AgAAABMBAAAAAAAAGAEAAAAAAAAAAAAAGAEAAAAAAAAYAQAAAAAAAAQAAAB0cnVl",
-					"AQAAAAAAAAABAAAAEwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					29,
-					1,
-					"insert",
-					{
-						"characters": "______"
-					},
-					"BgAAACACAAAAAAAAIQIAAAAAAAAAAAAAIQIAAAAAAAAiAgAAAAAAAAAAAAAiAgAAAAAAACMCAAAAAAAAAAAAACMCAAAAAAAAJAIAAAAAAAAAAAAAJAIAAAAAAAAlAgAAAAAAAAAAAAAlAgAAAAAAACYCAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIAIAAAAAAAAgAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					32,
-					1,
-					"insert",
-					{
-						"characters": "_____"
-					},
-					"BQAAAAQCAAAAAAAABQIAAAAAAAAAAAAABQIAAAAAAAAGAgAAAAAAAAAAAAAGAgAAAAAAAAcCAAAAAAAAAAAAAAcCAAAAAAAACAIAAAAAAAAAAAAACAIAAAAAAAAJAgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABAIAAAAAAAAEAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					35,
-					1,
-					"insert",
-					{
-						"characters": "____"
-					},
-					"BAAAAOcBAAAAAAAA6AEAAAAAAAAAAAAA6AEAAAAAAADpAQAAAAAAAAAAAADpAQAAAAAAAOoBAAAAAAAAAAAAAOoBAAAAAAAA6wEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA5wEAAAAAAADnAQAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "tatoy.html",
-			"settings":
-			{
-				"buffer_size": 11574,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					6,
-					1,
-					"",
-					null,
-					"AgAAALsoAAAAAAAA1SgAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1lCgAAAAAAACuKAAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "about/index.php",
-			"settings":
-			{
-				"buffer_size": 4357,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"",
-					null,
-					"BAAAAMYIAAAAAAAA4AgAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1CgUAAAAAAAAkBQAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnV1BAAAAAAAAI8EAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydRQEAAAAAAAALgQAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "openexchangerates.php",
-			"settings":
-			{
-				"buffer_size": 3107,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 4422,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					2,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAALREAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"",
-					null,
-					"BQAAAF0JAAAAAAAAdwkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1+gcAAAAAAAAUCAAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnV9BAAAAAAAAJcEAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydfYDAAAAAAAAEAQAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1pgMAAAAAAADAAwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAA9gMAAAAAAAALBAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "index2.php",
+			"file": "index2.html",
 			"settings":
 			{
 				"buffer_size": 4423,
@@ -197,112 +62,44 @@
 			"undo_stack":
 			[
 				[
-					1,
+					3,
 					1,
 					"",
 					null,
-					"BQAAAF4JAAAAAAAAeAkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1+gcAAAAAAAAUCAAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnV9BAAAAAAAAJcEAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydfYDAAAAAAAAEAQAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1pgMAAAAAAADAAwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "shatatoy.html",
-			"settings":
-			{
-				"buffer_size": 12418,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
+					"AQAAAH8AAAAAAAAAhwAAAAAAAAALAAAAVW5zdXBlcnZpc2U",
+					"AQAAAAAAAAABAAAAfwAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
 				[
-					1,
+					4,
 					1,
 					"",
 					null,
-					"AgAAAF8qAAAAAAAAeSoAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1OCoAAAAAAABSKgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "about-.html",
-			"settings":
-			{
-				"buffer_size": 20808,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
+					"AQAAAB8BAAAAAAAAJwEAAAAAAAALAAAAVW5zdXBlcnZpc2U",
+					"AQAAAAAAAAABAAAAHwEAAAAAAAAqAQAAAAAAAAAAAAAAAPC/"
+				],
 				[
-					1,
+					5,
 					1,
 					"",
 					null,
-					"BQAAAL4JAAAAAAAA2AkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1PAYAAAAAAABWBgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnW6BQAAAAAAANQFAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydWwFAAAAAAAAhgUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "about.html",
-			"settings":
-			{
-				"buffer_size": 19828,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
+					"AQAAAFUBAAAAAAAAXQEAAAAAAAALAAAAVW5zdXBlcnZpc2U",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
 				[
-					1,
+					6,
 					1,
 					"",
 					null,
-					"BQAAAL4JAAAAAAAA2AkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1PAYAAAAAAABWBgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnW6BQAAAAAAANQFAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydWwFAAAAAAAAhgUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "about_1.html",
-			"settings":
-			{
-				"buffer_size": 20452,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
+					"AQAAAHwNAAAAAAAAhA0AAAAAAAALAAAAVW5zdXBlcnZpc2U",
+					"AQAAAAAAAAABAAAAfA0AAAAAAACHDQAAAAAAAAAAAAAAAPC/"
+				],
 				[
-					1,
-					1,
-					"",
-					null,
-					"BQAAAL4JAAAAAAAA2AkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1PAYAAAAAAABWBgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnW6BQAAAAAAANQFAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydWwFAAAAAAAAhgUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "contact.html",
-			"settings":
-			{
-				"buffer_size": 12112,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					1,
+					32,
 					1,
 					"",
 					null,
-					"BQAAAHcJAAAAAAAAkQkAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ1JgYAAAAAAABABgAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnWlBQAAAAAAAL8FAAAAAAAAFQAAAGh0dHA6Ly91bnN1cGVydmlzZS5ydVcFAAAAAAAAcQUAAAAAAAAVAAAAaHR0cDovL3Vuc3VwZXJ2aXNlLnJ14AMAAAAAAAD6AwAAAAAAABUAAABodHRwOi8vdW5zdXBlcnZpc2UucnU",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAMsHAAAAAAAAzgcAAAAAAAAIAAAAODjQtNCy0LB4BwAAAAAAAHsHAAAAAAAACAAAADg40LTQstCw",
+					"AQAAAAAAAAABAAAAzQ0AAAAAAADODQAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -517,6 +314,18 @@
 	],
 	"file_history":
 	[
+		"/C/sites/shatatoy.github.io/about/index.php",
+		"/C/sites/shatatoy.github.io/inc/index.php",
+		"/C/sites/shatatoy.github.io/index.html",
+		"/C/sites/shatatoy.github.io/about.html",
+		"/C/sites/shatatoy.github.io/contact.html",
+		"/C/sites/shatatoy.github.io/about_1.html",
+		"/C/sites/shatatoy.github.io/sftp-config.json",
+		"/C/sites/shatatoy.github.io/about-.html",
+		"/C/sites/shatatoy.github.io/openexchangerates.php",
+		"/C/sites/shatatoy.github.io/tatoy.html",
+		"/C/sites/shatatoy.github.io/shatatoy.html",
+		"/C/sites/shatatoy.github.io/index2.php",
 		"/C/sites/unsupervise.ru/tatoy.html",
 		"/C/sites/unsupervise.ru/openexchangerates.php",
 		"/C/sites/unsupervise.ru/index.php",
@@ -632,23 +441,11 @@
 		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-tenge.html",
 		"/C/sites/kurs-dollara.net/en/konverter-valyut/currency-calculator.html",
 		"/C/sites/kurs-dollara.net/en/konverter-valyut/currency-converter.html",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-btc-forex-m.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-btc.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-rub-forex.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-rub.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-usd.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/gbp-rub.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/jpy-rub.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/kzt-rub.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/kzt-usd-forex.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-btc-forex.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-byr.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-chf.php",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/rub-eur-forex.php"
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-btc-forex-m.php"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -663,6 +460,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"88два",
+			"два",
+			"ДВА",
+			"unsupervise",
+			"unsupervise.ru",
+			"Unsuper",
+			"shatatoy",
+			"shatatoy.github.io/h3>",
+			"shatatoy.github.io",
+			"unsupervise.ru<",
+			" - Опытный портной - на выезд",
+			"www.unsupervise.ru",
+			"unsupervise",
 			"http://unsupervise.ru"
 		],
 		"highlight": true,
@@ -671,6 +481,14 @@
 		"regex": false,
 		"replace_history":
 		[
+			"88Z",
+			"Z",
+			"Shatatoy",
+			"shatatoy.github.io",
+			"shatatoy.github.io</h3>",
+			"shatatoy.github.io",
+			" Опытный портной",
+			"shatatoy.github.io",
 			"https://shatatoy.github.io"
 		],
 		"reverse": false,
@@ -688,601 +506,8 @@
 			[
 				{
 					"buffer": 0,
-					"file": "sftp-config.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1403,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								491,
-								491
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										504,
-										505
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										486,
-										487
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "tatoy.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11574,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								128,
-								128
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "about/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4357,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2061,
-								2061
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										2081,
-										2082
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										2053,
-										2054
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "openexchangerates.php",
+					"file": "index2.html",
 					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4422,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1024,
-								1045
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1036,
-										1037
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1013,
-										1014
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"incomplete_sync": null,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index2.php",
 					"semi_transient": false,
 					"settings":
 					{
@@ -1293,43 +518,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "shatatoy.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12418,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								3328,
+								3328
 							]
 						],
 						"settings":
@@ -1348,35 +538,55 @@
 								},
 								"unmatched":
 								{
-									"1":
-									[
-										1,
-										5
-									]
 								}
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1386,35 +596,11 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_regex_content"
 							],
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_thread_running": true,
+							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
@@ -1422,328 +608,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 684.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "about-.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20808,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19828,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "about_1.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20452,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "contact.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12112,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1817,7 +685,7 @@
 	"project": "shatatoy.github.io.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
