@@ -1,0 +1,117 @@
+/*@import url('https://fonts.googleapis.com/css?family=Literata:500&display=swap&subset=cyrillic');*/
+@import url('https://fonts.googleapis.com/css?family=Literata&display=swap&subset=cyrillic');
+
+@font-face {
+    font-family: Edwardian; /* Гарнитура шрифта */
+    src: url(../fonts/itcedscr.ttf); /* Путь к файлу со шрифтом */
+    src: local("Edwardian"), url(../fonts/itcedscr.woff);
+}
+body,html {
+position: relative;
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+background: #000529;
+overflow: hidden;
+}
+
+h1, h2, h4, p { 
+font-family: 'Literata', serif; 
+color: white;
+}
+
+h1 {
+font-size: 7vw;
+font-weight: normal;
+letter-spacing: 0.05em;
+line-height: 0.2em;
+margin-bottom: 0.9em;  
+text-align: center;
+}
+
+h2 {
+font-size: 4.1vw;
+line-height: 0.2em;
+letter-spacing: 0.26em;
+margin-bottom: 0.8em;  
+}
+
+h3 {
+font-size: 5.5vw;
+letter-spacing: 0em;
+line-height: 1em;
+text-align: center;
+/*margin-top: 2.0vw;*/
+}
+
+#menu {
+  font-family: Edwardian, 'Comic Sans MS', cursive;
+  font-size: calc(3vw + 3vh);
+  color: rgb(196, 155, 99);
+  max-width: 1200px;
+  text-align: right;
+  padding-right: 5vw;
+  top: calc(1vw + 9vh);
+  display: none;
+  z-index: 100;
+  position: absolute;
+  left: 50vw;
+}
+a {
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+    color: rgb(196, 155, 99);
+   }
+
+.hero {
+display: flex;
+height: 100%;
+align-items: center;
+color: white;
+}
+
+#container-p5 {
+position: absolute;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+opacity: 0;
+z-index: 0;
+}
+
+.hero-content {
+margin-left:9vw;
+padding: 9vw 9vw 9vw 9vw;
+}
+
+.highlight {
+	color: #001177;
+	text-align: center;
+}
+
+h4 {
+font-size: 5.1vw;
+line-height: 0.2em;
+margin-bottom: 0.8em;  
+}
+
+@media (min-width: 1200px) {
+  h1 {
+     font-size: 80px;
+  }
+  h3 {
+     font-size: 55px;
+  }
+  /*это тут специально внизу*/
+  #menu {
+     font-size: 70px;
+  }
+}
+#maincenter {
+    background: #fff;
+    margin: 0px auto;
+    max-width:1200px;
+    text-align:left;
+    box-sizing: border-box;
+   }
