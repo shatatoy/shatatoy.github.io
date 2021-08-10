@@ -1,0 +1,257 @@
+/*@import url('https://fonts.googleapis.com/css?family=Literata:500&display=swap&subset=cyrillic');*/
+@import url('https://fonts.googleapis.com/css?family=Literata&display=swap&subset=cyrillic');
+@font-face {
+    font-family: Edwardian; /* Гарнитура шрифта */
+    src: url(../fonts/itcedscr.ttf); /* Путь к файлу со шрифтом */
+    src: local("Edwardian"), url(../fonts/itcedscr.woff);
+}
+body,html {
+/*position: relative;*/
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+background: #000529;
+/*overflow: hidden;*/
+}
+
+h1, h2, h3, h4 { 
+font-family: 'Literata', serif; 
+color: white;
+}
+
+h1 {
+font-size: 5vw;
+letter-spacing: 0.05em;
+line-height: 0.2em;
+margin-bottom: 0.7em;  
+}
+
+h2 {
+font-size: 4.1vw;
+line-height: 0.2em;
+letter-spacing: 0.26em;
+margin-bottom: 0.8em;  
+}
+
+h3 {
+font-size: 2.94vw;
+letter-spacing: 0em;
+line-height: 1em;
+}
+
+.highlight {color: #0025ff;}
+
+h4 {
+font-size: 5.1vw;
+line-height: 0.2em;
+margin-bottom: 0.8em;  
+}
+
+.main {
+	position: relative;
+	/*top: 100%;*/
+	color: white;
+	/*height: 15.1vw;*/
+	background: #00094c;
+}
+
+p {
+	color: white;
+}
+
+.fixeded {
+	color: white;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+.reduced {
+	color: white;
+	position: fixed;
+	height: 0%;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+/*! CSS Used from: http://co.shatatoy.github.io/css/animate.css */
+.ftco-animated {
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}
+/*! CSS Used from: http://co.shatatoy.github.io/css/style.css */
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+section {
+    display: block;
+}
+h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+h2 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+h2 {
+    font-size: 2rem;
+}
+@media (min-width: 768px) {
+    .d-md-flex {
+        display: -webkit-box!important;
+        display: -ms-flexbox!important;
+        display: flex!important;
+    }
+}
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+@media print {
+    *,
+    *::before,
+    *::after {
+        text-shadow: none!important;
+        -webkit-box-shadow: none!important;
+        box-shadow: none!important;
+    }
+    p,
+    h2 {
+        orphans: 3;
+        widows: 3;
+    }
+    h2 {
+        page-break-after: avoid;
+    }
+}
+span {
+    color: #bfbfbf;
+}
+h2 {
+    line-height: 1.4;
+    color: #fff;
+    font-weight: 400;
+    font-family: "Josefin Sans", Arial, sans-serif;
+}
+.ftco-about .one-half {
+    width: 100%;
+    padding: 30px 15px;
+}
+@media (min-width: 768px) {
+    .ftco-about .one-half {
+        padding: 8% 13% 8% 5%;
+        width: 50%;
+    }
+}
+.ftco-about .one-half.img {
+    display: block;
+}
+@media (max-width: 767.98px) {
+    .ftco-about .one-half.img {
+        height: 300px;
+    }
+}
+@media (min-width: 768px) {
+    .ftco-about .one-half .overlap {
+        margin-left: -150px;
+        padding: 40px;
+        background: rgba(0, 0, 0, 0.5);
+    }
+}
+.ftco-animate {
+    opacity: 0;
+    visibility: hidden;
+}
+.heading-section {
+    z-index: 0;
+}
+.heading-section .subheading {
+    font-size: 6vw;
+    display: block;
+    margin-bottom: 0;
+    font-family: Edwardian, 'Comic Sans MS', cursive;
+    color: #c49b63;
+    line-height: 1;
+    margin-bottom: -11px;
+    z-index: 1;
+}
+.heading-section h2 {
+    z-index: -1;
+    font-size: 4vw;
+    font-weight: 700;
+    position: relative;
+    text-transform: uppercase;
+}
+@media (max-width: 767.98px) {
+    .heading-section h2 {
+        font-size: 28px;
+    }
+}
+.img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*! CSS Used keyframes */
+@-webkit-keyframes fadeInUp {
+    from {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transform: translate3d(0, 40px, 0);
+        transform: translate3d(0, 40px, 0);
+    }
+    to {
+        opacity: 1;
+        visibility: visible;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transform: translate3d(0, 40px, 0);
+        transform: translate3d(0, 40px, 0);
+    }
+    to {
+        visibility: visible;
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+
+    
+}
+
+/*! CSS Used fontfaces */
+
+
+
+
+
+
+

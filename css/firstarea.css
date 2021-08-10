@@ -1,0 +1,228 @@
+body {
+    background: #000;
+}
+/*calc(50% - 250px)*/
+#maincenter {
+    background: #fff;
+    margin: 0px auto;
+    min-width:320px;
+    max-width:1200px;
+    text-align:left;
+    box-sizing: border-box;
+   }
+.cotte {
+    background: #00094c;
+}
+.bord {
+    min-height: 50px;
+    height: 50px;
+    background: #00094c;
+}
+p {
+    /*line-height: 0.9em;*/
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.cotte p {
+    color: #e2eaf9;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    line-height: 0.9em;
+    margin-left: 0.1em;
+}
+.ni {
+    z-index: 105;
+    width: 100%;
+    position: absolute;
+    margin-top: calc(-2.8% - 5px);
+    max-width: 1200px;
+}
+
+.ni_blu {
+    z-index: 105;
+    width: 100%;
+    position: absolute;
+    margin-top: -3%;
+    max-width: 1200px;
+}
+.nii {
+    margin-top: 4em;
+}
+.sm-4 {
+    margin-right: 1px;
+    margin-left: auto;
+    text-align: right;
+}
+
+.chat a{
+    color: #fff;
+}
+
+ .chat a:focus,
+ .chat a:hover {
+    outline: none;
+    color: #aeeef5;
+    text-decoration: none;
+}
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*.ftco-about {
+    display: block;
+}*/
+/*p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}*/
+.mb-4 {
+    /*font-family: "Josefin Sans", Arial, sans-serif;    */
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-top: -0.4em;
+    /*color: inherit;*/
+    font-size: 5vmax;
+    color: #fff;
+    /*position: relative;*/
+    /*text-transform: uppercase;*/
+    margin-bottom: 0.39em !important;
+    z-index: 10;
+}
+.heading-section {
+    display: block;
+    font-size: 6vmax;
+    font-family: Edwardian, 'Comic Sans MS', cursive;
+    color: #c49b63;
+    line-height: 1;
+    margin-bottom: -11px;
+    z-index: 11;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   /* IE10 IE11 */
+    .heading-section {
+    font-size: 40px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 400.98px) {
+    .mb-4 {
+        /*font-size: 26px;*/
+    }
+}
+
+.slicksli {
+    border-top: 1px double #12bdff;
+    border-bottom: 1px double #12bdff;
+    padding: 9px;
+}
+.ftco-about .one-half {
+    width: 100%;
+    padding: 8% 13% 8% 5%;
+}
+.ftco-about .one-half.img {
+    display: block;
+}
+@media (min-width: 68px) {
+    .d-md-flex {
+        display: -webkit-box!important;
+        display: -ms-flexbox!important;
+        display: flex!important;
+    }
+    .ftco-about .one-half {
+        width: 50%;
+    }
+    .ftco-about .one-half .overlap {
+        margin-left: -75%;
+        padding: 15% 15% 15% 15%;
+        background: rgba(0, 4, 31, 0.33);
+    }
+
+}
+
+
+
+
+.img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*! CSS Used keyframes */
+/*@-webkit-keyframes fadeInUp {
+    from {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transform: translate3d(0, 180px, 0);
+        transform: translate3d(0, 180px, 0);
+    }
+    to {
+        opacity: 1;
+        visibility: visible;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transform: translate3d(0, 180px, 0);
+        transform: translate3d(0, 180px, 0);
+    }
+    to {
+        visibility: visible;
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+
+    
+}*/
+/*@media (max-width: 267.98px) {
+    .ftco-about .one-half.img {
+        height: 300px;
+    }
+}*/
+/*.ftco-animate {
+    opacity: 0;
+    visibility: hidden;
+}*/
+
+/*@media print {
+    *,
+    *::before,
+    *::after {
+        text-shadow: none!important;
+        -webkit-box-shadow: none!important;
+        box-shadow: none!important;
+    }
+    p,
+    h1 {
+        orphans: 3;
+        widows: 3;
+    }
+    h1 {
+        page-break-after: avoid;
+    }
+}*/
+
+/*! CSS Used fontfaces */
+
+/*.ftco-animated {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}*/
