@@ -3,21 +3,21 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Unsupervise Татой</title>
-        <meta name="Keywords" content="Ателье. Опытный, Элитный, VIP, Портной, Татой, Τατόι, на, выезд, Москва" />
-        <meta name="Description" content="Ателье 'shatatoy.github.io' - Опытный портной с выездом на дом, Москва, Татой - VIP" -->
+        <meta name="Keywords" content="Ателье. Опытный, Элитный, VIP, Портной, Татой, Τατόι, на, Москва" />
+        <meta name="Description" content="Ателье 'shatatoy.github.io' - Опытный портной, Москва, Татой - VIP" -->
         <meta name="author" content="Ателье 'shatatoy.github.io' - Портной Τατόι, Татой">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="HandheldFriendly" content="true">
         <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
         <link rel="shortcut icon" href="/favicon.ico" />
         <meta property="og:title" content="Ателье 'shatatoy.github.io' - Портной Татой, Москва" />
-        <meta property="og:description" content="Ателье 'shatatoy.github.io' - Опытный портной - выезд, VIP-сервис, Москва" />
+        <meta property="og:description" content="Ателье 'shatatoy.github.io' - Опытный портной, VIP-сервис, Москва" />
         <meta property="og:image" content="https://shatatoy.github.io/images/jake-rocheleau-250.jpg" />
         <meta property="og:url" content="https://shatatoy.github.io/" />
         <meta property="og:site_name" content="Сайт портного Татоя, Москва" />
         <meta name="twitter:site" content="https://shatatoy.github.io/" />
         <meta name="twitter:title" content="Ателье 'shatatoy.github.io' - Опытный портной Татой, Москва" />
-        <meta name="twitter:description" content="Ателье 'shatatoy.github.io' - Опытный портной - на выезд, VIP-сервис, Москва" />
+        <meta name="twitter:description" content="Ателье 'shatatoy.github.io' Опытный портной, VIP-сервис, Москва" />
         <meta property="place:location:latitude" content="55.752943"/>
         <meta property="place:location:longitude" content="37.583957"/>
         <meta property="business:contact_data:street_address" content="Новинский бульвар, 12"/>
