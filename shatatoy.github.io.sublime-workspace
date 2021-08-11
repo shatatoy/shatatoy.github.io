@@ -67,7 +67,7 @@
 					"",
 					null,
 					"AQAAAH8AAAAAAAAAhwAAAAAAAAALAAAAVW5zdXBlcnZpc2U",
-					"AQAAAAAAAAABAAAAfwAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH8AAAAAAAAAigAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					4,
@@ -75,7 +75,7 @@
 					"",
 					null,
 					"AQAAAB8BAAAAAAAAJwEAAAAAAAALAAAAVW5zdXBlcnZpc2U",
-					"AQAAAAAAAAABAAAAHwEAAAAAAAAqAQAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAB8BAAAAAAAAKgEAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					5,
@@ -83,7 +83,7 @@
 					"",
 					null,
 					"AQAAAFUBAAAAAAAAXQEAAAAAAAALAAAAVW5zdXBlcnZpc2U",
-					"AQAAAAAAAAABAAAAVQEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFUBAAAAAAAAYAEAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					6,
@@ -91,7 +91,7 @@
 					"",
 					null,
 					"AQAAAHwNAAAAAAAAhA0AAAAAAAALAAAAVW5zdXBlcnZpc2U",
-					"AQAAAAAAAAABAAAAfA0AAAAAAACHDQAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHwNAAAAAAAAhw0AAAAAAAAAAAAAAADwvw"
 				],
 				[
 					32,
@@ -99,7 +99,15 @@
 					"",
 					null,
 					"AgAAAMsHAAAAAAAAzgcAAAAAAAAIAAAAODjQtNCy0LB4BwAAAAAAAHsHAAAAAAAACAAAADg40LTQstCw",
-					"AQAAAAAAAAABAAAAzQ0AAAAAAADODQAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAM0NAAAAAAAAzg0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AgAAAMkHAAAAAAAAzAcAAAAAAAADAAAAODhaeAcAAAAAAAB7BwAAAAAAAAMAAAA4OFo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACMDQAAAAAAAIwNAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -315,10 +323,14 @@
 	"file_history":
 	[
 		"/C/sites/shatatoy.github.io/about/index.php",
+		"/C/sites/shatatoy.github.io/fonts/fontawesome-webfont.svg",
+		"/C/sites/shatatoy.github.io/fonts/glyphicons-halflings-regular.svg",
+		"/C/sites/shatatoy.github.io/fonts/Pe-icon-7-stroke.svg",
 		"/C/sites/shatatoy.github.io/inc/index.php",
-		"/C/sites/shatatoy.github.io/index.html",
 		"/C/sites/shatatoy.github.io/about.html",
 		"/C/sites/shatatoy.github.io/contact.html",
+		"/C/sites/shatatoy.github.io/index.html",
+		"/C/sites/shatatoy.github.io/date-ssi3.html",
 		"/C/sites/shatatoy.github.io/about_1.html",
 		"/C/sites/shatatoy.github.io/sftp-config.json",
 		"/C/sites/shatatoy.github.io/about-.html",
@@ -437,15 +449,11 @@
 		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-bel.html",
 		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-grivna.html",
 		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-lit-lat.html",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-realtime.html",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-tenge.html",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/currency-calculator.html",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/currency-converter.html",
-		"/C/sites/kurs-dollara.net/en/konverter-valyut/eur-btc-forex-m.php"
+		"/C/sites/kurs-dollara.net/en/konverter-valyut/converter-realtime.html"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -460,6 +468,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"88Z",
 			"88два",
 			"два",
 			"ДВА",
@@ -481,6 +490,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"882",
 			"88Z",
 			"Z",
 			"Shatatoy",
@@ -518,8 +528,8 @@
 						"selection":
 						[
 							[
-								3328,
-								3328
+								2504,
+								2504
 							]
 						],
 						"settings":
@@ -542,26 +552,11 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -572,31 +567,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_thread_running": true,
@@ -608,7 +618,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 684.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -685,7 +695,7 @@
 	"project": "shatatoy.github.io.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
